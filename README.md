@@ -1,4 +1,5 @@
 # Find-XSS-Auto
+Auto Find Cross Site Scripting 
 ## How To Install
 1. Install _httprobe_
 
